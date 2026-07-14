@@ -1,15 +1,13 @@
 class Solution {
     public boolean isHappy(int n) {
-        int slow = n;
-        int fast = n;
-
-        do {
-            slow = recadd(slow);
-            fast = recadd(recadd(fast));
-        } while (slow != fast);
-
-        return slow == 1;
+    HashSet<Integer> set = new HashSet<>();
+    while(n!=1&&!set.contains(n)){
+        set.add(n);
+        n=recadd(n);
     }
+    return n==1;
+    }
+
 
     public int recadd(int n){
         int rem=0;

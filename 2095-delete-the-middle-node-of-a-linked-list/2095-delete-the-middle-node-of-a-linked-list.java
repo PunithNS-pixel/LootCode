@@ -18,9 +18,6 @@ class Solution {
             slow=slow.next;
         }
         prev.next=slow.next;
-        while(slow!=null){
-            slow=slow.next;
-        }
         return head;
     }
 }

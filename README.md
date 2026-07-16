@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PunithNS-pixel/LootCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Number Theory
 |  |
 | ------- |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/PunithNS-pixel/LootCode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/PunithNS-pixel/LootCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |

@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PunithNS-pixel/LootCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/PunithNS-pixel/LootCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0263-ugly-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/PunithNS-pixel/LootCode/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PunithNS-pixel/LootCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

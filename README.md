@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0263-ugly-number) |
+| [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PunithNS-pixel/LootCode/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2678-number-of-senior-citizens](https://github.com/PunithNS-pixel/LootCode/tree/master/2678-number-of-senior-citizens) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/PunithNS-pixel/LootCode/tree/master/1768-merge-strings-alternately) |
+| [2678-number-of-senior-citizens](https://github.com/PunithNS-pixel/LootCode/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PunithNS-pixel/LootCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PunithNS-pixel/LootCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0202-happy-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/PunithNS-pixel/LootCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PunithNS-pixel/LootCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/PunithNS-pixel/LootCode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |

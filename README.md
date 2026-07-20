@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/PunithNS-pixel/LootCode/tree/master/1768-merge-strings-alternately) |
 | [2678-number-of-senior-citizens](https://github.com/PunithNS-pixel/LootCode/tree/master/2678-number-of-senior-citizens) |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -161,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

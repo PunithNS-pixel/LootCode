@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PunithNS-pixel/LootCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/PunithNS-pixel/LootCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/PunithNS-pixel/LootCode/tree/master/0078-subsets) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PunithNS-pixel/LootCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/PunithNS-pixel/LootCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/PunithNS-pixel/LootCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0090-subsets-ii) |

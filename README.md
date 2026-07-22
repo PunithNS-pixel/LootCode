@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
+| [3536-maximum-product-of-two-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+| [3536-maximum-product-of-two-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

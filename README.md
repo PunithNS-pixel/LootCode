@@ -219,4 +219,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PunithNS-pixel/LootCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PunithNS-pixel/LootCode/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

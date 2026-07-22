@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/PunithNS-pixel/LootCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0263-ugly-number) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |

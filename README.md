@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |

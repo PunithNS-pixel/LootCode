@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/PunithNS-pixel/LootCode/tree/master/1768-merge-strings-alternately) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 | [2678-number-of-senior-citizens](https://github.com/PunithNS-pixel/LootCode/tree/master/2678-number-of-senior-citizens) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PunithNS-pixel/LootCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
+| [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PunithNS-pixel/LootCode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PunithNS-pixel/LootCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |

@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PunithNS-pixel/LootCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PunithNS-pixel/LootCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/PunithNS-pixel/LootCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/0709-to-lower-case) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [3692-majority-frequency-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/3692-majority-frequency-characters) |
 ## Counting
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)

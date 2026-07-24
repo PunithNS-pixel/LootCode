@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PunithNS-pixel/LootCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/PunithNS-pixel/LootCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/PunithNS-pixel/LootCode/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PunithNS-pixel/LootCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/PunithNS-pixel/LootCode/tree/master/0225-implement-stack-using-queues) |
 ## Enumeration
 |  |
 | ------- |

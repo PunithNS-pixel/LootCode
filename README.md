@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
+| [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/PunithNS-pixel/LootCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PunithNS-pixel/LootCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PunithNS-pixel/LootCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math

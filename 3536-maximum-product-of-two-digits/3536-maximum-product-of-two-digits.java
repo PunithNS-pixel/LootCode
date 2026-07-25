@@ -1,6 +1,5 @@
 class Solution {
     public int maxProduct(int n) {
-        String s = String.valueOf(n);
         int max1=0,max2=0;
         int pro=1,rem=0,i=1;
         while(n>0){

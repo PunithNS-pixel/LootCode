@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/PunithNS-pixel/LootCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/PunithNS-pixel/LootCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/PunithNS-pixel/LootCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PunithNS-pixel/LootCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0090-subsets-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/PunithNS-pixel/LootCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/PunithNS-pixel/LootCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/PunithNS-pixel/LootCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PunithNS-pixel/LootCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PunithNS-pixel/LootCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/PunithNS-pixel/LootCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 ## Simulation

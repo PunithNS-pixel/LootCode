@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/PunithNS-pixel/LootCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PunithNS-pixel/LootCode/tree/master/0046-permutations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/PunithNS-pixel/LootCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PunithNS-pixel/LootCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0142-linked-list-cycle-ii) |

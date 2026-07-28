@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/PunithNS-pixel/LootCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/PunithNS-pixel/LootCode/tree/master/0739-daily-temperatures) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [3692-majority-frequency-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/3692-majority-frequency-characters) |
 ## Counting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PunithNS-pixel/LootCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1991-find-the-middle-index-in-array) |

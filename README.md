@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PunithNS-pixel/LootCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PunithNS-pixel/LootCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PunithNS-pixel/LootCode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/PunithNS-pixel/LootCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |

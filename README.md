@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/PunithNS-pixel/LootCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/PunithNS-pixel/LootCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0459-repeated-substring-pattern) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PunithNS-pixel/LootCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [3692-majority-frequency-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/3692-majority-frequency-characters) |
 ## Counting
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [3692-majority-frequency-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/3692-majority-frequency-characters) |
 ## Matrix
 |  |
@@ -276,16 +280,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [3536-maximum-product-of-two-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PunithNS-pixel/LootCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/PunithNS-pixel/LootCode/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->

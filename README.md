@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/PunithNS-pixel/LootCode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/PunithNS-pixel/LootCode/tree/master/0946-validate-stack-sequences) |
+| [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PunithNS-pixel/LootCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PunithNS-pixel/LootCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PunithNS-pixel/LootCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
+| [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 | [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PunithNS-pixel/LootCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PunithNS-pixel/LootCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PunithNS-pixel/LootCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PunithNS-pixel/LootCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [2614-prime-in-diagonal](https://github.com/PunithNS-pixel/LootCode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PunithNS-pixel/LootCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PunithNS-pixel/LootCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PunithNS-pixel/LootCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PunithNS-pixel/LootCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PunithNS-pixel/LootCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PunithNS-pixel/LootCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0876-middle-of-the-linked-list) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PunithNS-pixel/LootCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/PunithNS-pixel/LootCode/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PunithNS-pixel/LootCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/PunithNS-pixel/LootCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/PunithNS-pixel/LootCode/tree/master/1903-largest-odd-number-in-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/PunithNS-pixel/LootCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/PunithNS-pixel/LootCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2678-number-of-senior-citizens](https://github.com/PunithNS-pixel/LootCode/tree/master/2678-number-of-senior-citizens) |

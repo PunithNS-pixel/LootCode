@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
+| [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PunithNS-pixel/LootCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PunithNS-pixel/LootCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/PunithNS-pixel/LootCode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/PunithNS-pixel/LootCode/tree/master/1492-the-kth-factor-of-n) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/PunithNS-pixel/LootCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
@@ -451,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

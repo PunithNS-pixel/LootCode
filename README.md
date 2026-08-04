@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PunithNS-pixel/LootCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/PunithNS-pixel/LootCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/PunithNS-pixel/LootCode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/PunithNS-pixel/LootCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/PunithNS-pixel/LootCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0877-stone-game) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/PunithNS-pixel/LootCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/PunithNS-pixel/LootCode/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
 |  |

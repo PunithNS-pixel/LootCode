@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0518-coin-change-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PunithNS-pixel/LootCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PunithNS-pixel/LootCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/PunithNS-pixel/LootCode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PunithNS-pixel/LootCode/tree/master/2733-neither-minimum-nor-maximum) |

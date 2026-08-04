@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PunithNS-pixel/LootCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PunithNS-pixel/LootCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
@@ -476,4 +478,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0877-stone-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

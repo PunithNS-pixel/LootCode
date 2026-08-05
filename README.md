@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PunithNS-pixel/LootCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/PunithNS-pixel/LootCode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/PunithNS-pixel/LootCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/PunithNS-pixel/LootCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/PunithNS-pixel/LootCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/PunithNS-pixel/LootCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/PunithNS-pixel/LootCode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |

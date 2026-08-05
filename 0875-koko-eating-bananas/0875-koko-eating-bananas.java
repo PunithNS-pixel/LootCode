@@ -2,14 +2,13 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int low =1;
         int high=0;
-        for(int pile:piles){
-            high=Math.max(high,pile);
+        for(int x:piles){
+            high=Math.max(high,x);
         }
-        int ans =high;
+        int ans=-1;
         while(low<=high){
             int mid = low+(high-low)/2;
-            long hrs = cocospeed(piles,mid);
-            if(hrs<=h){
+            if(check(mid,piles,h)){
                 ans=mid;
                 high=mid-1;
             }
@@ -19,12 +18,12 @@ class Solution {
         }
         return ans;
     }
-    public long cocospeed(int piles[],int speed){
-        long hours = 0;
-        for(int pile : piles){
-            hours += (pile + speed - 1)/speed;
-        }
-        return hours;
-    }
 
+    public boolean check(int n,int piles[],int h){
+        long hrs=0;
+        for(int i=0;i<piles.length;i++){
+            hrs+=(piles[i]+n-1)/n;
+        }
+        return hrs<=h;
+    }
 }

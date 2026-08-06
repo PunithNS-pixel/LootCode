@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PunithNS-pixel/LootCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PunithNS-pixel/LootCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/PunithNS-pixel/LootCode/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/PunithNS-pixel/LootCode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/PunithNS-pixel/LootCode/tree/master/1903-largest-odd-number-in-string) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/PunithNS-pixel/LootCode/tree/master/0860-lemonade-change) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/PunithNS-pixel/LootCode/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
 |  |

@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/PunithNS-pixel/LootCode/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/PunithNS-pixel/LootCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/PunithNS-pixel/LootCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2678-number-of-senior-citizens](https://github.com/PunithNS-pixel/LootCode/tree/master/2678-number-of-senior-citizens) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PunithNS-pixel/LootCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3692-majority-frequency-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/3692-majority-frequency-characters) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PunithNS-pixel/LootCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2364-count-number-of-bad-pairs](https://github.com/PunithNS-pixel/LootCode/tree/master/2364-count-number-of-bad-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PunithNS-pixel/LootCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PunithNS-pixel/LootCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/PunithNS-pixel/LootCode/tree/master/1952-three-divisors) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PunithNS-pixel/LootCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |

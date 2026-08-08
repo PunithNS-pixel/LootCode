@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PunithNS-pixel/LootCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PunithNS-pixel/LootCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PunithNS-pixel/LootCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PunithNS-pixel/LootCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |

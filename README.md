@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/PunithNS-pixel/LootCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
@@ -530,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/PunithNS-pixel/LootCode/tree/master/1859-sorting-the-sentence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PunithNS-pixel/LootCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/PunithNS-pixel/LootCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PunithNS-pixel/LootCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3379-transformed-array](https://github.com/PunithNS-pixel/LootCode/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/PunithNS-pixel/LootCode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PunithNS-pixel/LootCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/PunithNS-pixel/LootCode/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PunithNS-pixel/LootCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/PunithNS-pixel/LootCode/tree/master/3379-transformed-array) |
 ## Math
 |  |
 | ------- |

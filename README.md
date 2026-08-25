@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PunithNS-pixel/LootCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PunithNS-pixel/LootCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3379-transformed-array](https://github.com/PunithNS-pixel/LootCode/tree/master/3379-transformed-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PunithNS-pixel/LootCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PunithNS-pixel/LootCode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PunithNS-pixel/LootCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PunithNS-pixel/LootCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/PunithNS-pixel/LootCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3692-majority-frequency-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/3692-majority-frequency-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PunithNS-pixel/LootCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PunithNS-pixel/LootCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |

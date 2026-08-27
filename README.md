@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PunithNS-pixel/LootCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/PunithNS-pixel/LootCode/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/PunithNS-pixel/LootCode/tree/master/1089-duplicate-zeros) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/PunithNS-pixel/LootCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PunithNS-pixel/LootCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PunithNS-pixel/LootCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/PunithNS-pixel/LootCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/PunithNS-pixel/LootCode/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -594,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/PunithNS-pixel/LootCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/PunithNS-pixel/LootCode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PunithNS-pixel/LootCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PunithNS-pixel/LootCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/PunithNS-pixel/LootCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PunithNS-pixel/LootCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PunithNS-pixel/LootCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PunithNS-pixel/LootCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2364-count-number-of-bad-pairs](https://github.com/PunithNS-pixel/LootCode/tree/master/2364-count-number-of-bad-pairs) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/PunithNS-pixel/LootCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/PunithNS-pixel/LootCode/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/PunithNS-pixel/LootCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

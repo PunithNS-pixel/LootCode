@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/PunithNS-pixel/LootCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/PunithNS-pixel/LootCode/tree/master/0946-validate-stack-sequences) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PunithNS-pixel/LootCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PunithNS-pixel/LootCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PunithNS-pixel/LootCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PunithNS-pixel/LootCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/PunithNS-pixel/LootCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/PunithNS-pixel/LootCode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1446-consecutive-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PunithNS-pixel/LootCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PunithNS-pixel/LootCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -514,11 +516,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PunithNS-pixel/LootCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PunithNS-pixel/LootCode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PunithNS-pixel/LootCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/PunithNS-pixel/LootCode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/PunithNS-pixel/LootCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/PunithNS-pixel/LootCode/tree/master/1927-sum-game) |

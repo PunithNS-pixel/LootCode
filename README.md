@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PunithNS-pixel/LootCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PunithNS-pixel/LootCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1323-maximum-69-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/PunithNS-pixel/LootCode/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-lemonade-change](https://github.com/PunithNS-pixel/LootCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PunithNS-pixel/LootCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/PunithNS-pixel/LootCode/tree/master/1323-maximum-69-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PunithNS-pixel/LootCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/PunithNS-pixel/LootCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/PunithNS-pixel/LootCode/tree/master/1927-sum-game) |

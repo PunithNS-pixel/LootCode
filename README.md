@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/PunithNS-pixel/LootCode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/PunithNS-pixel/LootCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/PunithNS-pixel/LootCode/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/PunithNS-pixel/LootCode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PunithNS-pixel/LootCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/PunithNS-pixel/LootCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/PunithNS-pixel/LootCode/tree/master/0503-next-greater-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PunithNS-pixel/LootCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/PunithNS-pixel/LootCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PunithNS-pixel/LootCode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/PunithNS-pixel/LootCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PunithNS-pixel/LootCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/PunithNS-pixel/LootCode/tree/master/0867-transpose-matrix) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PunithNS-pixel/LootCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0419-battleships-in-a-board](https://github.com/PunithNS-pixel/LootCode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PunithNS-pixel/LootCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PunithNS-pixel/LootCode/tree/master/0695-max-area-of-island) |

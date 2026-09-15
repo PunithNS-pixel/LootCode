@@ -613,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/PunithNS-pixel/LootCode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PunithNS-pixel/LootCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
